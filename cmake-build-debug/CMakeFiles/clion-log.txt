@@ -1,0 +1,11 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\VSRAM\pico\projects\compass
+PICO_SDK_PATH is C:/VSRAM/pico/pico-sdk
+PICO platform is rp2040.
+Using regular optimized debug build (set PICO_DEOPTIMIZED_DEBUG=1 to de-optimize)
+PICO target board is pico.
+Using board configuration from C:/VSRAM/pico/pico-sdk/src/boards/include/boards/pico.h
+TinyUSB available at C:/VSRAM/pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040; enabling build support for USB.
+Compiling TinyUSB with CFG_TUSB_DEBUG=1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/VSRAM/pico/projects/compass/cmake-build-debug
