@@ -1,1 +1,0 @@
-cmd='C:/Program Files/JetBrains/CLion 2021.1.1/bin/cmake/win/bin/cmake.exe;-GCodeBlocks - NMake Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
